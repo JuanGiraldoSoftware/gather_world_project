@@ -30,8 +30,8 @@
 *.lai
 *.la
 *.a
-*.lib
-*.include
+#*.lib
+#*.include
 
 # Executables
 *.exe
